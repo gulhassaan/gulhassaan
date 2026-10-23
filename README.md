@@ -3,7 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Crafting+fast,+responsive+interfaces;Full-Stack+capable+with+Node.js" alt="Typing SVG" />
 </p>
-<p align="">Click here ->
+<p align="">
+  -
+  -
+  -
   <a href="https://hassaan-gul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 <p align="center">
