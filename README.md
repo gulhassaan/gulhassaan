@@ -55,27 +55,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gulhassaan&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gulhassaan&layout=compact&hide=c&hide_border=true&bg_color=0d1117&title_color=FF7A00&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=gulhassaan&show_icons=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gulhassaan&layout=compact&hide=c,c%2B%2B&hide_border=true&bg_color=0d1117&title_color=FF7A00&text_color=c9d1d9" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=gulhassaan&hide_border=true&background=0d1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&stroke=30363d&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gulhassaan&bg_color=0d1117&color=c9d1d9&line=FF7A00&point=FF7A00&area=true&area_color=FF7A00&hide_border=true" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gulhassaan/gulhassaan/output/github-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/gulhassaan/gulhassaan/output/github-snake.svg" />
-  </picture>
 </p>
 
 <p align="center">
